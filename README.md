@@ -1,6 +1,6 @@
 # Functional Ruby
 
-This repo is functional programming in ruby code samples along with some in depth examples.
+This repo is functional programming in ruby code samples along with some in depth explanation with examples.
 
 
 ## Topics
